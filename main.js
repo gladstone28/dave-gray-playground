@@ -1,1 +1,2 @@
-console.log(Hello World)
+console.log('JS loaded')
+console.log('Hello Gladstone')
